@@ -5,11 +5,9 @@
 
 - 🔭 I’m currently working on **Book Website**
 
-- 👨‍💻 All of my projects are available at [www.sample.com](www.sample.com)
+- 👨‍💻 All of my projects are available at (https://github.com/VishwaTechy?tab=repositories)
 
 - 📫 How to reach me **vishwatechpro01@gmail.com**
-
-- 📄 Know about my experiences [link](link)
 
 - ⚡ Fun fact **I Love Designing and Coding**
 
